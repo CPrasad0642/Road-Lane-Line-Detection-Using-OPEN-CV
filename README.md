@@ -19,3 +19,5 @@ Some existing technologies utilize some kind of sensor such as Lidar, Radar, an
 
 :page_with_curl:**Flowchart :**
 [](https://drive.google.com/file/d/1FcatD2zZEeRRAZ6OSvYx4IK9WwANsOVp/view?usp=sharing)
+
+:pushpin:* **Detailed Explanation of Each Step :** * -1. Input Video :-
