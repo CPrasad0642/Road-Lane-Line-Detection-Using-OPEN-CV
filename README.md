@@ -63,7 +63,7 @@ Some existing technologies utilize some kind of sensor such as Lidar, Radar, an
 
    ![image](https://user-images.githubusercontent.com/67002556/194054645-8a75e915-0492-4d62-8b8a-8107590c81c6.png)
 
-   ***6.Hough Transoform :***
+   ***6.Hough Transform :***
    * The Hough transformation converts a “x vs y” line to a point in “gradient vs intercept(m-c)” space. Points in the image will correspond to lines in hough space. An intersection of lines in hough space will thus correspond to a line in Cartesian space. Using this technique, we can find lines from the pixel outputs of the canny edge detection output.
    * The main advantage of the Hough transform technique is that it is tolerant of gaps in feature boundary descriptions and is relatively unaffected by image noise.
 
